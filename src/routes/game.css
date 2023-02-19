@@ -1,0 +1,39 @@
+.title {
+  font-size: xx-large;
+  text-align: center;
+  color: #bde4a8;
+}
+
+.code_textBox {
+  font-size: 25px;
+  margin-left: 5%;
+  padding: 8px;
+  width: 40%;
+  border-radius: 8px;
+}
+
+.next_button {
+  padding: 8px;
+  background-color: #bde4a8;
+  font-size: large;
+  color: white;
+  border-radius: 8px;
+  margin-left: 18px;
+}
+
+.login__textBox {
+  font-size: 25px;
+  margin-left: 5%;
+  padding: 8px;
+  width: 40%;
+  border-radius: 8px;
+}
+
+.login__btn {
+  padding: 8px;
+  background-color: #bde4a8;
+  font-size: large;
+  color: white;
+  border-radius: 8px;
+  margin-left: 18px;
+}
